@@ -1,10 +1,10 @@
 package z1_pr9;
 
-// Класс, представляющий животное
-public class Animal implements Nameable {
+// Класс, представляющий планету
+public class Planet implements Nameable {
 	private String name;
 	
-	public Animal(String name) {
+	public Planet(String name) {
 		this.name = name;
 	}
 	
